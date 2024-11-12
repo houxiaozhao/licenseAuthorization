@@ -1,3 +1,5 @@
 key
 node_modules
 .DS_Store
+py/key
+py/.conda
